@@ -16,3 +16,6 @@ article {
 img {
   float: right;
 }
+footer {
+  clear: both;
+}
